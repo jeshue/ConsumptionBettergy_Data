@@ -4,6 +4,10 @@ Repositorio de datos utilizados en las simulaciones del trabajo fin de Máster "
 **REPOSITORIO: DATOS DE CONSUMO y GENERACIÓN DE UNA SMART HOUSE UBICADA EN EL SUR DE ESPAÑA**
 Este repositorio contiene los datos utilizados en las simulaciones de un edificio inteligente situado en el sur de España, proporcionados por la empresa Bettergy. Los datos están organizados en varios DATASETS.
 
+**MODELOS DE APLICACIÓN**
+- ALGORITMO DE OPERACIÓN/GESTIÓN ÓPTIMA DE SISTEMAS FOTOVOLTAICOS CON ALMACENAMIENTO
+- DISEÑO DEL SISTEMA FV CON ALMACENAMIENTO: DIMENSIONAMIENTO ÓPTIMO Y OPERACIÓN A 24 HORAS
+
 **Listado de Datasets Utilizados**
 - Dataset1: Set de datos del caso base original. Este conjunto de datos representa las condiciones originales del edificio sin modificaciones en la generación de energía fotovoltaica (FV).
 - Dataset2: Generación FV reducida a la mitad respecto al caso base. Aquí se simula una situación donde la generación de energía fotovoltaica es un 50% menor que en el caso base, permitiendo el análisis de escenarios con menor generación de energía solar.
